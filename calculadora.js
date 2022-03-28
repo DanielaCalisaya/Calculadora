@@ -26,8 +26,7 @@ let dividir = require('./dividir')
 //console.log(dividir(0, 5))
 
 console.log(process.argv[2])
-//El 2 me trae esa posición del string que escriba 
-//en la terminal.
+//El 2 me trae esa posición del string que escriba en la terminal.
 
 let operacion = process.argv[2] //sumar
 let numero1 = process.argv[3] //2
