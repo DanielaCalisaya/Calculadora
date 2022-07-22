@@ -2,14 +2,14 @@
 
 ![portada](img/cover.png)
 
-## Práctica integradora
-Vamos a programar una calculadora sencilla con los conocimientos que hemos adquirido
-hasta el momento. La calculadora contará con 4 funciones básicas:
+## Sobre este proyecto...
+Esta calculadora cuenta con 4 funciones básicas:
  - Sumar
  - Restar
  - Multiplicar
  - Dividir
 
+En este proyecto se dividen las tareas en varios archivos según las funciones que deben realizar y se las requiere en un archivo principal.
 
 ## M2 C4
 
